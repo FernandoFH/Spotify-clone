@@ -7,5 +7,5 @@ This proyect i want to replay full Stack aplication to Spotify
 # Backend 
   - [ ] Golang (Fiber) 
 # Frontend 
-  - [ ] Golang (Fiber) 
+  - [ ] React Js 
 # Deploy 
