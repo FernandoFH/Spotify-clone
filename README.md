@@ -1,5 +1,9 @@
-# Spotify-clone
-This proyect i want to replay full Stack aplication to Spotify 
+# Spotify Full Stack clone
+
+## ✍🏻 Description
+  - This project will include data modeling, backend logic and front end the Spotify
+
+⚠️⚠️ DISCLAIMER: This construction is for educational purposes, the architecture and technology decisions are my own opinions.
 
 # Dase de datos
   - [ ] PostgresSQL 
