@@ -5,7 +5,10 @@
 
 ⚠️⚠️ DISCLAIMER: This construction is for educational purposes, the architecture and technology decisions are my own opinions.
 
-# Dase de datos
+  - 
+
+
+# Data base
   - [ ] PostgresSQL 
   - [ ] MongoDB  
 # Backend 
