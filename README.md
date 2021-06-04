@@ -7,12 +7,12 @@
 
   - 
 
-
-# Data base
+## Stack 
+#### Data base
   - [ ] PostgresSQL 
   - [ ] MongoDB  
-# Backend 
+#### Backend 
   - [ ] Golang (Fiber) 
-# Frontend 
+#### Frontend 
   - [ ] React Js 
-# Deploy 
+#### Deploy 
