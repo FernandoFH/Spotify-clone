@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1001px" height="291px" viewBox="-0.5 -0.5 1001 291" content="&lt;mxfile&gt;&lt;diagram id=&quot;OpH2O5RI1EKJXAgHAPPj&quot; name=&quot;Database Design&quot;&gt;1VdNj5swEP01SO0hFQaC0mMSth+HntKqZwccsGpsasxC+us7xsaEhaittlGUS+y8mfF4nt+MhBfuy+6jxFXxRWSEeYGfdV6YeEGA1n4Ii0bOBol8ZIBc0sw6jcCB/iIW9C3a0IzUE0clBFO0moKp4JykaoJhKUU7dTsJNs1a4ZzMgEOK2Rz9TjNVGHSz9kf8E6F5MWRGvrWUeHC2QF3gTLQXUPjkhXsphDK7stsTpskbeDFxH65Y3cUk4epvAoZ7PGPW2OK8IGYQuyuQZpDh2pAV/2z0pXaKKqDB/R3PGhBd/WruVauzpW8ASyxzyr1wC1a/6twvMosJq3CWUZ5fehnDUciMyDkuGsUoJ3PDM5GKwhuuMKO5TXvENem9B6eT4GpVK0lUWhgXygsiqXIe2n1V2NfVDuhdMA0/4ZKyszFCtbisemMYRrCChgTgkuQNw3Jm7kP2mi7M61UNmU/Tw9uLzFzIEjNnTwUTlhCZH9+sA3cYQhu3D/zorQtpjXp1SGzIGl8szu3aq0EnX3xFw1jfoj0bm6VTEqyw5hocElJr+u2xoExz8jQbwFp+AxhMMgeKdL1AVckAQLCFFxM/yN4QkHCh3393ooy9gOzTJym0hxbPbhDF1hpKmmU6za4tqCKHCqc6ZwtjDDApGp4RrXbfXUsfQLqr3YdcT8MwJKIkSp7Bxc09E9GOQwTFFisuBsjgh+3cyt1JY2vDxnb3lU5Hs07fQu21mtFbt7RkuOfrNTXaAHd5WzMKFooOFop20/5VVYezqr9q9TywpP7AN5rSvSCxzRLZ/4PrYMb1N5hgN9bXfeUV3aepovtWvZ5XzY5NCdDn5KFbK/rXcX2zXtosU1zfWFhxfFdhvV+smpN52Y+kqs2dVAV/xy+J3nbxPRY+/QY=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1001px" height="442px" viewBox="-0.5 -0.5 1001 442" content="&lt;mxfile&gt;&lt;diagram id=&quot;OpH2O5RI1EKJXAgHAPPj&quot; name=&quot;Database Design&quot;&gt;3VhNc5swEP01zLQHdwDZhBxjO017aC9pp2cZZNBUH1SIYPfXV0JCGItM03E8jnsx8HZXq316u8YOwIruHgSsyi88RySIw3wXgHUQx1F8c6MuGtkbBNwCAxQC59ZpAB7xb2TB0KINzlE9cpScE4mrMZhxxlAmRxgUgrdjty0n46wVLJAHPGaQ+OgPnMvSoOkiHPBPCBdlnzkKrYXC3tkCdQlz3h5A4D4AK8G5NHd0t0JEk9fzYuI+PmN1GxOIyZcE9Pt4gqSxxQVxQlTssow0gwTWhqzkV6M3tZRYKhrc47BWj+jqZ75XLfeWvh6kUBSYBeBOWcNq5z4jczFhFcxzzIpDL2PYcJEj4eO8kQQz5BuekJBYneEMElzYtBtYo867d9pyJme1FEhmpXHBrEQCS+eh3WelPV3tEH2Ix+FbSDHZG6OqFtKqMwIwV1elIa5wgYqGQOGZu5CVpguyelarzNvx4u1BZsYFhcTZM064JUQUm3eL2C0WRam7j8P5exfSGvXqkMSQNZxYUthrpwadfPIUDWNdi3ZspFOrrKGEmmvlsEa1pt8uq5RpVh5nU7CWXw/Go8yxRLtOoJISBUTqVp0Y/4lWhoA14/r8l1tMyBFkj36dqfbQ4ln2orizBorzXKdZtiWW6LGCmc7ZqjGmMMEbliOt9tBtSy+Ads92X+R6Wg1DxCmSYq9c7Nyb2+5rhyESJRYrDwZI7wft3CrcSkNrqxvb3c90euR1+p2qvZYevXWLKYEdX6fUaAPc5vf99J8oOp4o2k37k6oGXtXftHquWFJ/4Tsa0z0hsXSK7NfgOva4/q4m2Jn1dVl5zS/TVPPLVr3wqyabhiro8/qqW2v+r+P6bL2UTlNcn1lYSXJRYd1OVs2QX/Y1qSp9K6oC/oR+QExM0Pu6qgJHqgLpC1XlfjidVLX/DtBXfeXzypznm1CW/0X4FVL0P5JrI2ZHL1rJ2chWj8MfAp3t4G8VcP8H&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="220" y="0" width="160" height="40" fill="none" stroke="none" pointer-events="all"/>
@@ -99,6 +99,46 @@
                 </foreignObject>
                 <text x="920" y="134" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Albunes
+                </text>
+            </switch>
+        </g>
+        <path d="M 580 363 L 580 340 L 700 340 L 700 363" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 580 363 L 580 440 L 700 440 L 700 363" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 580 363 L 700 363" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="639.5" y="356">
+                Genres
+            </text>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 390px; margin-left: 581px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                Genres ID
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="620" y="394" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Genres ID
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 410px; margin-left: 571px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                Name
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="610" y="414" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Name
                 </text>
             </switch>
         </g>
