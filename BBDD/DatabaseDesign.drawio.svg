@@ -1,4 +1,4 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="681px" height="611px" viewBox="-0.5 -0.5 681 611" content="&lt;mxfile&gt;&lt;diagram id=&quot;OpH2O5RI1EKJXAgHAPPj&quot; name=&quot;Database Design&quot;&gt;1VfLcpswFP0aZtqFO7xM6TK207SLrtJO1zLIoKmQqBDB7tf3CgkBFpk606RuNhac+9I9OlcevGhbHe8EqssvPMfUC/386EU7LwyDNElhUchJI1G81kAhSG6cRuCe/MIG9A3akhw3M0fJOZWknoMZZwxncoYhIXg3dztwOq9aowI7wH2GqIt+J7ksNZqu/RH/hElRDpUD31gqNDgboClRzrsJFN160VZwLvVTddxiqsgbeNFxHx+x2o0JzOQlAcM+HhBtTXNemFCI3ZSBYpCiRpOV/GzVpjaSSKDBvo65BkR1v3K9Gnky9A1ghURBmBfdgNWvj/Y30IsOq1GeE1ZMvbRhz0WOhYvzVlLCsGt4wEISOMMVoqQwZfeowb334HTgTK4aKbDMSu1CWIkFkdZDua9Kc7rKIXgXzsMPqCL0pI3QLarq3hhFMaygIQ64wEVLkXDMfchW0YVYs2qg8mGevJtUZlxUiFp7xik3hIhi/2Yd2mRBkNrn0I/f2pBOq1eFJJqs8cSSwqy9GlTxxVPUjPUjqtLE6VKWHZJIcQ0OO9wo+k1aUKbOPK8GsJLfAIazyqHEx16gsqIABPAIJ8Z/4K0mYMe4Ov/NgVB6Bpmj32UwHko8m0EUN8ZQkTxXZTZdSSS+r1GmanZwjQEmeMtyrNTu221NR81Mn8qJjxPIjN4d5hWW4gQuxrp6P8yfuQhj89qNt0o8YOXkRkkNhsxFVtjU46zDgxn3R0Y/cEb/BshopMN305GKop7A52h6fdZ0kLhdB+FC1/b+/6u2I6ftr0pPr0VkTyc8+KPG0iWyn4Pr0OH6G9xpLy2w1L+qwOIrzZU92eu0vXbbpvu2Aujz7vVMV3wx7VcYp3SZ4uallRWd/00tNP2Cyvqw2DbDbt//razSizn/97KK3Fv6DjOxQO8zyyp5fyar9EJZ2e+pJ7QNr+NnVW+bfJxGt78B&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="681px" height="641px" viewBox="-0.5 -0.5 681 641" content="&lt;mxfile&gt;&lt;diagram id=&quot;OpH2O5RI1EKJXAgHAPPj&quot; name=&quot;Database Design&quot;&gt;1VdNc5swEP01zLQHdwDZhBxjO0176Cnt9CyDDJoKiQoR7P76SugDsEjitk7TjmeMeLvSsm/fLkMANtXhjsO6/MRyRII4zA8B2AZxHK2Sa3lRyFEjywhooOA4N04DcI9/IAOGBm1xjpqJo2CMCFxPwYxRijIxwSDnrJu67RmZRq1hgTzgPoPER7/iXJQaTVfhgH9AuCht5Cg0lgpaZwM0JcxZN4LAbQA2nDGhV9Vhg4giz/Ki971/xOoejCMqztlgn+MBktYkF8QJkXvXZaQYJLDRZCXfW/VQa4GFpMHdDmdZRGW/8L0acTT0WbCCvMA0ADfSGtYH9x/pi95WwzzHtBh7acOO8RxxH2etIJgi3/CAuMCyhgtIcGHC7mCDem/rtGdULBrBkchK7YJpiTgWzkO5L0pTXeUQvYun2/ewwuSojTJbWNW9EYClvEoNMYlzVLQEcs/cb9kouiBtFo2MvJ8e3o0iU8YrSJw9Y4QZQnixe7OK3WFRlLp1HC7fui2dVq/akmiyhoolhbn2alDBZ6uoGetbVB2zTOdO2UIBFdfSYYsaRb85VipTnzyNJmElPwvGk8ixQIdeoKIiEojkUlaMfUMbTcCWMlX/9R4TcgKZ0m8z2R5KPGsrihtjqHCeqzDrrsQC3dcwUzE7OcYkxllLc6TUHrrHGrea6T51JjqMINN6d4hVSPCjdDHWxZXtPzsIzW03TJWlxcrRREkNBs0gK9zRQ6/LhWn3R1o/8lr/RpLRCI/vpsMVgT2BjYBcmIEcgwuxsDphIUp8GqJ4hgbH1x/xEHs8fJGN9xQLl0g6DV81aeAl/Vl11fOt9sJdpTvZvlX93paDch+q32wZXC2fr8PRsnkm68kFSF/+RsddQmtOMq+jtZWfNtm1lYQ+bv+b4e6Kd7a0ZoZ5OsfxJShO5yluXlpZ4PQFNpP0CyrrejZtivy8/1lZpWdz/vdlBfxX4x2ifIbeC8squTqRVXqmrNyX1i+kLW+HD67eNvpsBbc/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <rect x="80" y="0" width="440" height="80" fill="none" stroke="none" pointer-events="all"/>
@@ -23,17 +23,26 @@
             </switch>
         </g>
         <path d="M 280 143 L 280 120 L 400 120 L 400 143" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-        <path d="M 280 143 L 280 330 L 400 330 L 400 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 143 L 280 360 L 400 360 L 400 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 280 143 L 400 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
             <text x="339.5" y="136">
                 Artist
             </text>
         </g>
+        <path d="M 0 143 L 0 120 L 120 120 L 120 143" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 143 L 0 360 L 120 360 L 120 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 143 L 120 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="59.5" y="136">
+                User
+            </text>
+        </g>
+        <rect x="0" y="144" width="120" height="26" fill="none" stroke="#f0f0f0" pointer-events="none"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 170px; margin-left: 291px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 157px; margin-left: 1px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
                                 Text
@@ -41,21 +50,13 @@
                         </div>
                     </div>
                 </foreignObject>
-                <text x="330" y="174" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                <text x="60" y="161" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
                     Text
                 </text>
             </switch>
         </g>
-        <path d="M 0 143 L 0 120 L 120 120 L 120 143" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 0 143 L 0 330 L 120 330 L 120 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 0 143 L 120 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
-            <text x="59.5" y="136">
-                User
-            </text>
-        </g>
         <path d="M 560 143 L 560 120 L 680 120 L 680 143" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 560 143 L 560 330 L 680 330 L 680 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 560 143 L 560 360 L 680 360 L 680 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 560 143 L 680 143" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
             <text x="619.5" y="136">
@@ -79,7 +80,7 @@
             </switch>
         </g>
         <path d="M 480 423 L 480 400 L 600 400 L 600 423" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-        <path d="M 480 423 L 480 610 L 600 610 L 600 423" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 480 423 L 480 640 L 600 640 L 600 423" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <path d="M 480 423 L 600 423" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
         <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
             <text x="539.5" y="416">
