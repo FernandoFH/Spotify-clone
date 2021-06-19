@@ -20,3 +20,4 @@
 #### Deploy 
   - [ ] AWS
   - [ ] Github Actions 
+  - [ ] Pipeline CI/CD
