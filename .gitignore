@@ -6,6 +6,8 @@
 bin/*
 pkg/*
 !.gitkeep
+db/data
+.idea
 
 ###################
 #  NPM - React    #
