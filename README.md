@@ -6,7 +6,7 @@
 ⚠️⚠️ DISCLAIMER: This construction is for educational purposes, the architecture and technology decisions are my own opinions.
 
 ## Stack 
-#### Data base
+#### Database
   - [ ] PostgresSQL 
   - [ ] MongoDB  
 #### Cache strategy
