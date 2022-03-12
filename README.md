@@ -24,5 +24,8 @@
   - [ ] Pipeline CI/CD
 
 
-
-[![](https://mermaid.ink/img/pako:eNpVkE1qw0AMha8itEohvoAXhcZOsgm00Ow8XgiPkhmS-UEeU4Ltu3ccE2i1knjf0xMasQuascSrUDRwrpWHXB9NZcT2yVHfQlG8T0dO4ILnxwS7zTFAb0KM1l_fVn63QFCNpwVjSMb627xK1dP_6XmCujlRTCG2f5XzT5hg39gvk9f_V4xwdh2aC5UXKjoSqEha3KJjcWR1PntcDAqTYccKy9xqkptC5efMDVFT4r22KQiWSQbeIg0pfD9895pXpraUP-AwB917nn8BFZdaRQ)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVkE1qw0AMha8itEohvoAXhcZOsgm00Ow8XgiPkhmS-UEeU4Ltu3ccE2i1knjf0xMasQuascSrUDRwrpWHXB9NZcT2yVHfQlG8T0dO4ILnxwS7zTFAb0KM1l_fVn63QFCNpwVjSMb627xK1dP_6XmCujlRTCG2f5XzT5hg39gvk9f_V4xwdh2aC5UXKjoSqEha3KJjcWR1PntcDAqTYccKy9xqkptC5efMDVFT4r22KQiWSQbeIg0pfD9895pXpraUP-AwB917nn8BFZdaRQ)
+flowchart LR
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
