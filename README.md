@@ -24,8 +24,4 @@
   - [ ] Pipeline CI/CD
 
 
-flowchart LR
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+[![](https://mermaid.ink/img/pako:eNpNj7EKgzAQhl8l3NSCDu3oUKim0K1g3YxDMGcNaCIxoS3Gd2-sFXrTcd_3w38T1FogJPAwfGhJQZkiYc7llRtRkTg--QJf1pN0l2unxH7l6UJINlGs5Si1mtdz9g3cFHpCyxxH11lyqP5Z8dSeXDZ2rCCCHk3PpQgdpsVkYFvskUESVoENDyIDpuagukFwixchrTaQNLwbMQLurL6_VQ2JNQ43iUoeXup_1vwBivxKng)](https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpNj7EKgzAQhl8l3NSCDu3oUKim0K1g3YxDMGcNaCIxoS3Gd2-sFXrTcd_3w38T1FogJPAwfGhJQZkiYc7llRtRkTg--QJf1pN0l2unxH7l6UJINlGs5Si1mtdz9g3cFHpCyxxH11lyqP5Z8dSeXDZ2rCCCHk3PpQgdpsVkYFvskUESVoENDyIDpuagukFwixchrTaQNLwbMQLurL6_VQ2JNQ43iUoeXup_1vwBivxKng)
